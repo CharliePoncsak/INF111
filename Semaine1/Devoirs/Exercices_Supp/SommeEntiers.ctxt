@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SommeEntiers
+comment0.text=\r\n\ \r\n\ \ \ \ \ \ \ \ Ce\ programme\ calcul\ la\ somme\ des\ entiers\ dans\ un\ intervalle.\ \r\n\ \r\n\ @version\r\n1.0\ 5\ Sep\ 2020\ \ *\ \ @Charlie\ Poncsak
+comment1.params=
+comment1.target=void\ main()
+numComments=2

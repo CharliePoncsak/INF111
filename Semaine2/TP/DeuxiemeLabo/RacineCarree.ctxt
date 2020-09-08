@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RacineCarree
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ PROGRAMME\ PRINCIPAL\r\n\ \r\n\ Ce\ programme\ permet\ de\ calculer\ et\ d'afficher\r\n\ a\ racine\ carr\uFFFDe\ d'un\ nombre\ entr\uFFFD\ par\ l'utilisateur.\r\n
+numComments=2

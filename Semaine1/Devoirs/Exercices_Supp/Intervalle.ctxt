@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Intervalle
+comment0.text=\r\n\ \r\n\ \ \ \ \ \ \ \ Ce\ programme\ enumere\ les\ nombres\ entiers\ dans\ \r\n\ \ \ \ \ \ \ \ un\ interval\ donne.\r\n\ \r\n\ @version\r\n1.0\ 4\ Sep\ 2020\ \ *\ \ @Charlie\ Poncsak
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TracerBloc4
+comment0.text=\r\n\ Trois\ donnees\ vont\ passer\ a\ travers\ des\ calculs,\ et\ leurs\ valeurs\ vont\ etre\r\n\ notees\ visuellement\r\n\r\n\ @Charlie\ Poncsak\r\n\ @v1.0\ 4\ Sept\ 2020\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Calcul\ des\ differentes\ valeurs\ de\ la\ table\r\n
+numComments=2

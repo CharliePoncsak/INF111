@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=UtilitaireMath
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UtilitaireMath\ here.\r\n\r\n\ @Charlie\ Poncsak\r\n\ @08\ 09\ 2020\r\n
+comment1.params=x\ a
+comment1.target=double\ racineCarree(double,\ double)
+comment1.text=\r\n\ Fonction\ permettant\ le\ calcul\ de\ la\ racine\ carree\r\n\ d'un\ entier\ entr\u00E9\ par\ l'usager.\r\n\ \r\n\ "param\ x\ (la\ racine\ carr\u00E9e),\ a\ (nombre\ saisi)\r\n\ /return\ x,\ a\r\n
+numComments=2

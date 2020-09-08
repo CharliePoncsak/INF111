@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Exercice1
+comment0.text=\r\n\ Exercice1\r\n\ \r\n\ \r\n\ @author\ <a\ href\="mailto\:Pierre.Belisle@etsmtl.ca">Pierre\ Belisle</a>\r\n\ @version\ aout\ 2005\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\r\n
+comment2.params=a\ x
+comment2.target=int\ f1(int,\ int)
+comment3.params=a\ x
+comment3.target=void\ f2(int,\ int)
+comment4.params=a\ x
+comment4.target=int\ f3(int,\ int)
+numComments=5

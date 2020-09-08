@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TracerBloc2
+comment0.text=\r\n\ Ce\ programme\ trace\ les\ valeurs\ de\ trois\ differentes\ variables\ tout\ au\ long\ d'un\ calcul\ simple\r\n\ \r\n\ Auteur\:\ Charlie\ Poncsak\ \r\n\ 4\ Septembre\ 2020\r\n\ V1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Factoriel
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Programme\ qui\ affiche\ le\ factoriel\ d'un\ nombre\ (en\ mode\ console)\r\n\r\n\ Voir\ enonce\ de\ laboratoire\ 1\ pour\ details.\r\n
+numComments=2

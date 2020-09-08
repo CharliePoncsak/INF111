@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PremierSuperieur
+comment0.text=\r\n\ \r\n\ \ \ \ \ \ \ \ Ce\ programme\ affiche\ le\ prochain\ nombre\ premier\r\n\ \ \ \ \ \ \ \ sup\u00E9rieur\ \u00E0\ un\ entier\ donn\u00E9.\r\n\ \r\n\ @version\r\n1.0\ 7\ Sep\ 2020\ \ *\ \ @Charlie\ Poncsak
+comment1.params=
+comment1.target=void\ main()
+numComments=2

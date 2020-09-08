@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SommeMultiples
+comment0.text=\r\n\ \r\n\ \ \ \ \ \ \ \ Ce\ programme\ calcul\ la\ somme\ des\ entiers\ multiples\ de\ 11\ ou\r\n\ \ \ \ \ \ \ \ dont\ le\ sinus\ est\ sup\u00E9rieur\ \u00E0\ 0.68467711\ dans\ un\ intervalle\r\n\ \ \ \ \ \ \ \ donn\u00E9.\ \r\n\ \r\n\ @version\r\n1.0\ 5\ Sep\ 2020\ \ *\ \ @Charlie\ Poncsak
+comment1.params=
+comment1.target=void\ main()
+numComments=2
